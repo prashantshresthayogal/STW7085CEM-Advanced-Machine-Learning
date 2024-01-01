@@ -1,0 +1,5 @@
+-- scikit-fuzzy packages
+
+git clone https://github.com/scikit-fuzzy/scikit-fuzzy.git
+cd scikit-fuzzy
+pip install .
